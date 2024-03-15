@@ -1,0 +1,78 @@
+.intro
+{
+    text-indent: 20px;
+    background-color: aqua;
+    text-align: left;
+    border: 2px solid;
+    border-color: rgb(29, 163, 183);
+}
+.baslik
+{
+    color: brown;
+    font-variant:small-caps;
+    font-size: x-large;
+    text-align: left;
+}
+li
+{
+    color: #7b3500;
+    font-size: larger;
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    list-style-type:square;
+}
+p.list
+{
+    font-size: large;
+   font-style:oblique;
+   
+}
+.ilkresim
+{
+    float: right;
+    width: 300px;
+    
+}
+.resim2
+{
+    width: 300px;
+    float:left;
+    padding: 10px;
+}
+.resim3
+{
+    width: 300px;
+    height: 159px;
+}
+.add
+{
+    background-color: rgb(79, 153, 110);
+    font-size: large;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.last
+{
+    width: 300px;
+    border: solid;
+    border-color: paleturquoise;
+}
+a:link
+{
+    color: rgb(167, 103, 0);
+
+}
+a:visited
+{
+    
+    background-color: cornflowerblue;
+}
+a:active
+{
+    background-color: crimson;
+
+}
+a:hover
+{
+    background-color: cadetblue;
+    color: bisque;
+}
